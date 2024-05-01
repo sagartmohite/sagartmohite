@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Rest API Testing, Selenium, Automation Framework**
 
-- 👨‍💻 I had worked on open source projects and uploaded it on github at [https://github.com/sagarmohite](https://github.com/sagarmohite)
+- 👨‍💻 I had worked on open source projects and uploaded it on github at [https://github.com/sagartmohite](https://github.com/sagartmohite)
 
 - 💬 Ask me about **Rest API, Postman, Java, Selenium**
 
